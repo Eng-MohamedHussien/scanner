@@ -1,0 +1,32 @@
+read , Keyword
+x , Identifier
+; , Semi Colon
+if , Keyword
+0 , Number
+< , Less Than
+x , Identifier
+then , Keyword
+fact , Identifier
+:= , assign
+1 , Number
+; , Semi Colon
+repeat , Keyword
+fact , Identifier
+:= , assign
+fact , Identifier
+* , Multiply
+x , Identifier
+; , Semi Colon
+x , Identifier
+:= , assign
+x , Identifier
+- , Minus
+1 , Number
+until , Keyword
+x , Identifier
+= , Equal
+0 , Number
+; , Semi Colon
+write , Keyword
+fact , Identifier
+end , Keyword
